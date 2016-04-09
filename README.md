@@ -1,4 +1,4 @@
-# route-planner
+# Route Planner
 Application to plan you route using Google Maps. Click on points in the map to add them to your route.
 
 ## Functionalities
